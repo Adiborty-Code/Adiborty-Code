@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aditya Chakraborty</h1>
-<h3 align="center">An enthusiastic AI/ML explorer.</h3>
+<h3 align="center">An enthusiastic AI/ML and digital design explorer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adiborty-code&label=Profile%20views&color=0e75b6&style=flat" alt="adiborty-code" /> </p>
 
